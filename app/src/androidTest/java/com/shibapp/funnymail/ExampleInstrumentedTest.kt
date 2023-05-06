@@ -1,4 +1,4 @@
-package com.example.funnymail
+package com.shibapp.funnymail
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

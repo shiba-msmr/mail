@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.funnymail'
+    namespace 'com.shibapp.funnymail'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.funnymail"
+        applicationId "com.shibapp.funnymail"
         minSdk 21
         targetSdk 33
         versionCode 1

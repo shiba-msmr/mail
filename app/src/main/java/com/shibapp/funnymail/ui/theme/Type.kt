@@ -1,4 +1,4 @@
-package com.example.funnymail.ui.theme
+package com.shibapp.funnymail.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

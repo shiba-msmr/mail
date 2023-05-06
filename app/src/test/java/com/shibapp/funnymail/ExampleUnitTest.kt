@@ -1,4 +1,4 @@
-package com.example.funnymail
+package com.shibapp.funnymail
 
 import org.junit.Test
 
